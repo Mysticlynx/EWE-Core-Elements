@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<PhysicalItems>
+                <PhysicalItem> <!-- Berylium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Berylium</SubtypeId>
+                        </Id>
+                        <DisplayName>Berylium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Berylium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.85</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Be</IconSymbol>
+                        <MinimalPricePerUnit>4</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Magnesium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Magnesium</SubtypeId>
+                        </Id>
+                        <DisplayName>Magnesium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Magnesium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.738</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Mg</IconSymbol>
+                        <MinimalPricePerUnit>12</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Calcium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Calcium</SubtypeId>
+                        </Id>
+                        <DisplayName>Calcium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Calcium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.55</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ca</IconSymbol>
+                        <MinimalPricePerUnit>20</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Strontium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Strontium</SubtypeId>
+                        </Id>
+                        <DisplayName>Strontium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Strontium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>2.64</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Sr</IconSymbol>
+                        <MinimalPricePerUnit>38</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Barium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Barium</SubtypeId>
+                        </Id>
+                        <DisplayName>Barium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Barium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>3.51</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ba</IconSymbol>
+                        <MinimalPricePerUnit>56</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Radium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Radium</SubtypeId>
+                        </Id>
+                        <DisplayName>Radium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Earth\Radium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>5.5</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\magnesium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ra</IconSymbol>
+                        <MinimalPricePerUnit>88</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+	</PhysicalItems>
+</Definitions>

@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<PhysicalItems>
+                <PhysicalItem> <!-- Scandium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Scandium</SubtypeId>
+                        </Id>
+                        <DisplayName>Scandium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Scandium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>2.985</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Sc</IconSymbol>
+                        <MinimalPricePerUnit>21</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Titanium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Titanium</SubtypeId>
+                        </Id>
+                        <DisplayName>Titanium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Titanium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>4.506</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ti</IconSymbol>
+                        <MinimalPricePerUnit>22</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Vanadium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Vanadium</SubtypeId>
+                        </Id>
+                        <DisplayName>Vanadium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Vanadium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>6.11</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>V</IconSymbol>
+                        <MinimalPricePerUnit>23</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Chromium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Chromium</SubtypeId>
+                        </Id>
+                        <DisplayName>Chromium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Chromium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>7.15</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Cr</IconSymbol>
+                        <MinimalPricePerUnit>24</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Manganese -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Manganese</SubtypeId>
+                        </Id>
+                        <DisplayName>Manganese</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Manganese.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>7.21</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Mn</IconSymbol>
+                        <MinimalPricePerUnit>25</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Iron -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Iron</SubtypeId>
+                        </Id>
+                        <DisplayName>Iron</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Iron.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>7.86</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Fe</IconSymbol>
+                        <MinimalPricePerUnit>26</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Cobalt -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Cobalt</SubtypeId>
+                        </Id>
+                        <DisplayName>Cobalt</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Cobalt.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>8.9</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\cobalt_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Co</IconSymbol>
+                        <MinimalPricePerUnit>27</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Nickel -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Nickel</SubtypeId>
+                        </Id>
+                        <DisplayName>Nickel</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Nickel.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>8.908</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\nickel_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ni</IconSymbol>
+                        <MinimalPricePerUnit>28</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Copper -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Copper</SubtypeId>
+                        </Id>
+                        <DisplayName>Copper</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Copper.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>8.96</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\nickel_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Cu</IconSymbol>
+                        <MinimalPricePerUnit>29</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Zinc -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Zinc</SubtypeId>
+                        </Id>
+                        <DisplayName>Zinc</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Zinc.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>7.14</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\nickel_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Zn</IconSymbol>
+                        <MinimalPricePerUnit>30</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Yttreium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Yttreium</SubtypeId>
+                        </Id>
+                        <DisplayName>Yttreium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Yttreium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>4.472</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Y</IconSymbol>
+                        <MinimalPricePerUnit>39</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Zirconium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Zirconium</SubtypeId>
+                        </Id>
+                        <DisplayName>Zirconium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Zirconium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>6.52</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Zr</IconSymbol>
+                        <MinimalPricePerUnit>40</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Niobium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Niobium</SubtypeId>
+                        </Id>
+                        <DisplayName>Niobium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Niobium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>8.57</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Nb</IconSymbol>
+                        <MinimalPricePerUnit>41</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Molybdenum -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Molybdenum</SubtypeId>
+                        </Id>
+                        <DisplayName>Molybdenum</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Molybdenum.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>10.28</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Mo</IconSymbol>
+                        <MinimalPricePerUnit>42</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Technetium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Technetium</SubtypeId>
+                        </Id>
+                        <DisplayName>Technetium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Technetium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>11</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Tc</IconSymbol>
+                        <MinimalPricePerUnit>43</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Ruthenium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Ruthenium</SubtypeId>
+                        </Id>
+                        <DisplayName>Ruthenium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Ruthenium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>12.45</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ru</IconSymbol>
+                        <MinimalPricePerUnit>44</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Rhodium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Rhodium</SubtypeId>
+                        </Id>
+                        <DisplayName>Rhodium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Rhodium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>12.41</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Rh</IconSymbol>
+                        <MinimalPricePerUnit>45</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Palladium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Palladium</SubtypeId>
+                        </Id>
+                        <DisplayName>Palladium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Palladium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>12.023</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Pd</IconSymbol>
+                        <MinimalPricePerUnit>46</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Silver -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Silver</SubtypeId>
+                        </Id>
+                        <DisplayName>Silver</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Silver.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>10.49</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\silver_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ag</IconSymbol>
+                        <MinimalPricePerUnit>47</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Cadmium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Cadmium</SubtypeId>
+                        </Id>
+                        <DisplayName>Cadmium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Cadmium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>8.65</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Cd</IconSymbol>
+                        <MinimalPricePerUnit>48</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Hafnium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Hafnium</SubtypeId>
+                        </Id>
+                        <DisplayName>Hafnium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Hafnium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>13.31</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Hf</IconSymbol>
+                        <MinimalPricePerUnit>72</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Tantalum -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Tantalum</SubtypeId>
+                        </Id>
+                        <DisplayName>Tantalum</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Tantalum.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>16.69</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ta</IconSymbol>
+                        <MinimalPricePerUnit>73</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Tungsten -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Tungsten</SubtypeId>
+                        </Id>
+                        <DisplayName>Tungsten</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Tungsten.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>19.25</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>W</IconSymbol>
+                        <MinimalPricePerUnit>74</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Rhenium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Rhenium</SubtypeId>
+                        </Id>
+                        <DisplayName>Rhenium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Rhenium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>21.02</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Re</IconSymbol>
+                        <MinimalPricePerUnit>75</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Osmium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Osmium</SubtypeId>
+                        </Id>
+                        <DisplayName>Osmium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Osmium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>22.59</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Os</IconSymbol>
+                        <MinimalPricePerUnit>76</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Iridium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Iridium</SubtypeId>
+                        </Id>
+                        <DisplayName>Iridium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Iridium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>22.56</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ir</IconSymbol>
+                        <MinimalPricePerUnit>77</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Platinum -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Platinum</SubtypeId>
+                        </Id>
+                        <DisplayName>Platinum</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Platinum.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>21.45</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\platinum_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Pt</IconSymbol>
+                        <MinimalPricePerUnit>78</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Gold -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Gold</SubtypeId>
+                        </Id>
+                        <DisplayName>Gold</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Gold.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>19.3</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\gold_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Au</IconSymbol>
+                        <MinimalPricePerUnit>79</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Mercury -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Mercury</SubtypeId>
+                        </Id>
+                        <DisplayName>Mercury</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Mercury.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>11.85</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\OxygenTankItem.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Hg</IconSymbol>
+                        <MinimalPricePerUnit>80</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Rutherfordium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Rutherfordium</SubtypeId>
+                        </Id>
+                        <DisplayName>Rutherfordium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Rutherfordium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>17</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Rf</IconSymbol>
+                        <MinimalPricePerUnit>104</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Dubnium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Dubnium</SubtypeId>
+                        </Id>
+                        <DisplayName>Dubnium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Dubnium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>21.6</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Db</IconSymbol>
+                        <MinimalPricePerUnit>105</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Seaborgium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Seaborgium</SubtypeId>
+                        </Id>
+                        <DisplayName>Seaborgium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Seaborgium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>3.6</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Sg</IconSymbol>
+                        <MinimalPricePerUnit>106</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Bohrium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Bohrium</SubtypeId>
+                        </Id>
+                        <DisplayName>Bohrium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Bohrium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>40.16</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Bh</IconSymbol>
+                        <MinimalPricePerUnit>107</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Hassium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Hassium</SubtypeId>
+                        </Id>
+                        <DisplayName>Hassium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Hassium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>41</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Hs</IconSymbol>
+                        <MinimalPricePerUnit>108</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Meitnerium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Meitnerium</SubtypeId>
+                        </Id>
+                        <DisplayName>Meitnerium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Meitnerium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>41</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Mt</IconSymbol>
+                        <MinimalPricePerUnit>109</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Darmstadtium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Darmstadtium</SubtypeId>
+                        </Id>
+                        <DisplayName>Darmstadtium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Darmstadtium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>38.2</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Ds</IconSymbol>
+                        <MinimalPricePerUnit>110</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Roentgenium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Roentgenium</SubtypeId>
+                        </Id>
+                        <DisplayName>Roentgenium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Roentgenium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>35.5</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Rg</IconSymbol>
+                        <MinimalPricePerUnit>111</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Copernicium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Copernicium</SubtypeId>
+                        </Id>
+                        <DisplayName>Copernicium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Transition Metal\Copernicium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>16.2</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\iron_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Cn</IconSymbol>
+                        <MinimalPricePerUnit>112</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+	</PhysicalItems>
+</Definitions>

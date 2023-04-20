@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<PhysicalItems>
+                <PhysicalItem> <!-- Lithium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Lithium</SubtypeId>
+                        </Id>
+                        <DisplayName>Lithium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Lithium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>0.534</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Li</IconSymbol>
+                        <MinimalPricePerUnit>3</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Sodium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Sodium</SubtypeId>
+                        </Id>
+                        <DisplayName>Sodium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Sodium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>0.968</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Na</IconSymbol>
+                        <MinimalPricePerUnit>11</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Potassium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Potassium</SubtypeId>
+                        </Id>
+                        <DisplayName>Potassium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Potassium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>0.89</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>K</IconSymbol>
+                        <MinimalPricePerUnit>19</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Rubidium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Rubidium</SubtypeId>
+                        </Id>
+                        <DisplayName>Rubidium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Rubidium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.532</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Rb</IconSymbol>
+                        <MinimalPricePerUnit>37</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Cesium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Cesium</SubtypeId>
+                        </Id>
+                        <DisplayName>Cesium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Cesium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.93</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Cs</IconSymbol>
+                        <MinimalPricePerUnit>55</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Francium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Francium</SubtypeId>
+                        </Id>
+                        <DisplayName>Francium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Alkali Metal\Francium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.87</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\potassium_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Fr</IconSymbol>
+                        <MinimalPricePerUnit>87</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+	</PhysicalItems>
+</Definitions>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<PhysicalItems>
+                <PhysicalItem> <!-- Hydrogen -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Hydrogen</SubtypeId>
+                        </Id>
+                        <DisplayName>Hydrogen</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Hydrogen.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>0.0710052</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\OxygenTankItem.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>H</IconSymbol>
+                        <MinimalPricePerUnit>1</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Carbon -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Carbon</SubtypeId>
+                        </Id>
+                        <DisplayName>Carbon</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Carbon.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>2.267</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\stone_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>C</IconSymbol>
+                        <MinimalPricePerUnit>6</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Nitrogen -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Nitrogen</SubtypeId>
+                        </Id>
+                        <DisplayName>Nitrogen</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Nitrogen.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>0.98829</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\OxygenTankItem.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>N</IconSymbol>
+                        <MinimalPricePerUnit>7</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Oxygen -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Oxygen</SubtypeId>
+                        </Id>
+                        <DisplayName>Oxygen</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Oxygen.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.12891</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\OxygenTankItem.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>O</IconSymbol>
+                        <MinimalPricePerUnit>8</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Phosphorus -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Phosphorus</SubtypeId>
+                        </Id>
+                        <DisplayName>Phosphorus</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Phosphorus.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>1.823</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\stone_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>P</IconSymbol>
+                        <MinimalPricePerUnit>15</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Sulfur -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Sulfur</SubtypeId>
+                        </Id>
+                        <DisplayName>Sulfur</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Sulfur.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>2.08</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\stone_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>S</IconSymbol>
+                        <MinimalPricePerUnit>16</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+
+                <PhysicalItem> <!-- Selenium -->
+                        <Id>
+                                <TypeId>Ingot</TypeId>
+                                <SubtypeId>Selenium</SubtypeId>
+                        </Id>
+                        <DisplayName>Selenium</DisplayName>
+                        <Icon>Textures\GUI\Icons\ingot\Reactive NonMetals\Selenium.dds</Icon>
+                        <Size>
+                                <X>0.072</X>
+                                <Y>0.072</Y>
+                                <Z>0.072</Z>
+                        </Size>
+                        <Mass>4.81</Mass>
+                        <Volume>1</Volume>
+                        <Model>Models\Ingots\stone_ingot.mwm</Model>
+                        <PhysicalMaterial>Metal</PhysicalMaterial>
+                        <IconSymbol>Se</IconSymbol>
+                        <MinimalPricePerUnit>34</MinimalPricePerUnit>
+                        <MinimumOfferAmount>1</MinimumOfferAmount>
+                        <MaximumOfferAmount>1000000</MaximumOfferAmount>
+                        <MinimumOrderAmount>1</MinimumOrderAmount>
+                        <MaximumOrderAmount>1000000</MaximumOrderAmount>
+                        <CanPlayerOrder>true</CanPlayerOrder>
+                        <MinimumAcquisitionAmount>1</MinimumAcquisitionAmount>
+                        <MaximumAcquisitionAmount>1000000</MaximumAcquisitionAmount>
+                </PhysicalItem>
+	</PhysicalItems>
+</Definitions>
